@@ -1,9 +1,9 @@
 # Site settings
-title: ddbullfrog's blog
-description: ddbullfrog's blog
+title: ely kahn design
+description: professional resume
 favicon: /assets/img/avatar.JPG
 baseurl:
-url: http://ddbullfrog.com
+url: http://elykahn.github.io/iCard-Resume/
 rss_url: /pages/atom.xml
 
 # Build settings
@@ -11,38 +11,38 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Ely Kahn
+  title: Mindful Designer
+  address: San Francsico, CA
+  email: hire@ely.io
+  link: http://ely.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: elykahn
+  linkedin: elykahndesign
+  twitter: creativ_ely
   gavatar: /assets/img/avatar.JPG
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Foresight Science & Technology
+      location: Providence, RI (Remote Work)
+      title: Lead Product Designer
+      started: 2008
+      duration: (2008 - 2009)
+      description: Problem: Amongst a range of high-profile, complex and costly services Foresight offered its clients, the naming wasn’t clearly articulating what portion of the commercialization process that was included in each product. Similarly a given  portion of the process didn’t have any way to point back to the services in which it was included. This knowledge gap was previously being filled by a combination of initial consultations, which were expensive for the clients and required a large budget to initialize projects or clients pulling the trigger prematurely which led to agency-wide budgeting, staffing and planning errors and subsequent corecttions. Additionally, the initial consultation required a level of experience and knowledge to ‘read between the lines’ and ascertain a client’s actual needs from the client’s perceived needs. This meant that to bring any new business in required several hours of Executive-level meetings, research and negotiating, limiting the agency in growth and reach.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
+      company: Progressive Democrats of America
+      location: East Bay Area, CA
+      title: Creative Director, Lead Designer, Steering Committee Member
       started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2009 - 2011)
+      description: Working with this young, energetic and ambitious group of activists was a very rewarding and stimulating experience. I came onboard as the chapter was being revived after several years of dormancy. I primarily focused on forming and empowering the group's online efforts, at this stage that consisted of newsletters, informational sites and "Write Your Representative" campaigns. Of the 6 core issues, our biggest success came from on-the-ground voter registration and campaigning for progressive candidates in Southern & Central California representative races.
+    - work3:
+      company: Ely Kahn Creative Design (Independent)
+      location: San Francisco, CA  
+      title: Freelance Product Designer & Front-End Developer
+      started: 2005
+      duration: (2005 - Present)
+      description: As an Indie Web Designer in San Francisco, there are an unfathomable number of opportunities paired with an equally inconceivable number of skilled competitors. My broad skill-set allows me to take on and execute comprehensive campaigns that involve branding & identity, graphic design, web design and development and tie it all together as a holistic User Experience and Social Media strategy.
   educationHistory:
     - education1:
       organization: Northeastern University
